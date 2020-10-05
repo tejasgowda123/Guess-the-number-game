@@ -14,7 +14,7 @@ while noofguesses<16:
 		print "Your guess is low!"
 	elif guess>no:
 		guessesleft=str(guessesleft)
-		print "Your guess is high."
+		print "Your guess is high,."
 	else:
 		noofguesses=str(noofguesses)
 		print "Your guess is right"
